@@ -1,0 +1,7 @@
+sudo apt install yarn nodejs
+
+next build
+
+yarn add
+
+yarn run start
